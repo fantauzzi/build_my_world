@@ -45,12 +45,12 @@ gazebo training_world.world
 ```
 Gazebo will start and display the world with a building, objects from the Gazebo library (the construction cones) and two robots whose model is in `/build_my_world/model/differential_rob`.
 
-Also, upon starting, Gazebo should print `Hello World!` in the console where it was run.  If it doesn't, likely the `GAZEBO_PLUGIN_PATH` environment variable wasn't set correctly. 
+Also, upon starting, Gazebo should print `Welcome to Differential Rob’s World!` in the console where it was run.  If it doesn't, likely the `GAZEBO_PLUGIN_PATH` environment variable wasn't set correctly. 
 
 ![Screenshot](gazebo_screenshot.png "The Gazebo world")
 
 The robots have a differential drive, two caster (ball) wheels and a depth camera on top.
 
-![Screenshot](robot.png "The Gazebo world")
+![Screenshot](robot.png "Differential Rob")
  
 

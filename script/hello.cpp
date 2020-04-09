@@ -5,7 +5,7 @@ namespace gazebo {
     class WorldPluginMyRobot : public WorldPlugin {
     public:
         WorldPluginMyRobot() : WorldPlugin() {
-            std::cout << "Hello World!" << std::endl;
+            std::cout << "Welcome to Differential Rob’s World!" << std::endl;
         }
 
     public:
